@@ -1,0 +1,5 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SSanthoshp ==================================================================================================================================  Hi Everyone my name is SSanthosh, I live in Oklahoma City. I am here to change my career to software development. I’m a beginner and I do not have experience in coding but I am trying my best to learn it.  * 🌍  I'm based in Oklahoma City * 🧠  I'm learning Software Development * 🤝  I'm open to collaborating on interesting projects
+
+### Skills  
+
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> </p>
